@@ -21,7 +21,7 @@ I am:
   - 🔭 SDET at Barrage, Osijek
   - 🔭 Educator at Edukos, Osijek
   - 🔭 Bachelor's in Computer Engineering
-  - 🔭 Graduate Student at FERIT, Osijek
+  - 🔭 Graduate Student at FERIT, Osijek in Software Engineering
 
 Technologies & Tools i like to use:
   - 🔧 Languages: JS, C#, Kotlin
