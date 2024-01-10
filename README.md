@@ -14,3 +14,19 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+Welcome to My GitHub Profile! 👋
+Filip Cica
+  - SDET
+  - Bachelor's in Computer Engineering
+  - Graduate Student at FERIT, Osijek i
+
+🔧 Technologies & Tools
+  - Languages: JS, C#, Kotlin
+  - Testing Frameworks: Cypress, Appium, Webdriverio
+  - Paradigms: Object-Oriented Programming (OOP)
+  - Design Patterns: Well-versed in applying design patterns to ensure scalable and maintainable code.
+
+📫 How to Reach Me
+Email: filip.cica1234@gmail.com
+
+Happy Coding! 🚀✨
