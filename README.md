@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hello Weary Traveler 👋
 
 <!--
 **FC122/FC122** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,17 +14,18 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-Welcome to My GitHub Profile! 👋
-Filip Cica
-  - SDET
-  - Bachelor's in Computer Engineering
-  - Graduate Student at FERIT, Osijek i
+Welcome to My Github Chaos! ⚡
+My name is Filip Cica
 
-🔧 Technologies & Tools
-  - Languages: JS, C#, Kotlin
-  - Testing Frameworks: Cypress, Appium, Webdriverio
-  - Paradigms: Object-Oriented Programming (OOP)
-  - Design Patterns: Well-versed in applying design patterns to ensure scalable and maintainable code.
+I am:
+  - 🔭 SDET at Barrage,Osijek
+  - 🔭 Bachelor's in Computer Engineering
+  - 🔭 Graduate Student at FERIT, Osijek i
+
+🔧 Technologies & Tools i like to use:
+  - ⚡ Languages: JS, C#, Kotlin
+  - ⚡ Testing Frameworks: Cypress, Appium, Webdriverio
+  - ⚡ Design Patterns: Fun stuff to know
 
 📫 How to Reach Me
 Email: filip.cica1234@gmail.com
