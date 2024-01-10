@@ -23,16 +23,16 @@ I am:
   - 🔭 Bachelor's in Computer Engineering
   - 🔭 Graduate Student at FERIT, Osijek
 
-🔧 Technologies & Tools i like to use:
-  - ⚡ Languages: JS, C#, Kotlin
-  - ⚡ Testing Frameworks: Cypress, Appium, Webdriverio
-  - ⚡ Design Patterns: Fun stuff to know
+Technologies & Tools i like to use:
+  - 🔧 Languages: JS, C#, Kotlin
+  - 🔧 Testing Frameworks: Cypress, Appium, Webdriverio
+  - 🔧 Design Patterns: Fun stuff to know
 
-I Like:
-  - 🌱 Rubiks Cubes,
-  - 🌱 Chess
-  - 🌱 Game Dev
-  - 🌱 Marvel
+I like:
+  - ⚡ Rubiks Cubes
+  - ⚡ Chess
+  - ⚡ Game Dev
+  - ⚡ Marvel
 
 📫 How to Reach Me
 Email: filip.cica1234@gmail.com
