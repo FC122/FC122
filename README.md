@@ -38,3 +38,4 @@ I like:
 Email: filip.cica1234@gmail.com
 
 Happy Coding! 🚀✨
+![tenor-2510387074](https://github.com/FC122/FC122/assets/72666124/dd7a2da5-876b-441f-9475-471fdc9ad178)
