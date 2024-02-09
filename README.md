@@ -36,7 +36,7 @@ I like:
 
 📫 How to Reach Me
 Email: filip.cica1234@gmail.com
-
-![tenor-2510387074](https://github.com/FC122/FC122/assets/72666124/dd7a2da5-876b-441f-9475-471fdc9ad178)
-
 Happy Coding! 🚀✨
+
+![monkeykolo](https://github.com/FC122/FC122/assets/72666124/7ee84dc7-2924-4a08-a43d-5e7c745ee83a)
+
