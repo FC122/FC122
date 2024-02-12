@@ -37,6 +37,3 @@ I like:
 📫 How to Reach Me
 Email: filip.cica1234@gmail.com
 Happy Coding! 🚀✨
-
-![monkeykolo](https://github.com/FC122/FC122/assets/72666124/7ee84dc7-2924-4a08-a43d-5e7c745ee83a)
-
