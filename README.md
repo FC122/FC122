@@ -35,5 +35,7 @@ I like:
   - ⚡ Marvel
 
 📫 How to Reach Me
+
 Email: filip.cica1234@gmail.com
+
 Happy Coding! 🚀✨
