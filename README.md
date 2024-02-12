@@ -25,14 +25,15 @@ I am:
 
 Technologies & Tools i like to use:
   - 🔧 Languages: JS, C#
-  - 🔧 Testing Frameworks: Cypress, Appium, Webdriverio
+  - 🔧 Test Automation: Cypress, Appium, Webdriverio, Specflow, Selenium
+  - 🔧 Game Dev: Unity
+  - 🔧 Web Dev: Vue, Next
   - 🔧 IDEs: VS Code, Cursor
 
 I like:
   - ⚡ Rubiks Cubes
   - ⚡ Chess
-  - ⚡ Game Dev
-  - ⚡ Marvel
+  - ⚡ Game Development
 
 📫 How to Reach Me
 
