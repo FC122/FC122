@@ -20,13 +20,13 @@ My name is Filip Cica
 I am:
   - 🔭 SDET at Barrage, Osijek
   - 🔭 Educator at Edukos, Osijek
-  - 🔭 Bachelor's in Computer Engineering
+  - 🔭 Bachelor in Computer Engineering
   - 🔭 Graduate Student at FERIT, Osijek in Software Engineering
 
 Technologies & Tools i like to use:
-  - 🔧 Languages: JS, C#, Kotlin
+  - 🔧 Languages: JS, C#
   - 🔧 Testing Frameworks: Cypress, Appium, Webdriverio
-  - 🔧 Design Patterns: Fun stuff to know
+  - 🔧 IDEs: VS Code, Cursor
 
 I like:
   - ⚡ Rubiks Cubes
