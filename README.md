@@ -18,10 +18,10 @@ Welcome to My Github Chaos! ⚡
 My name is Filip Cica
 
 I am:
-  - 🔭 SDET at Barrage, Osijek
   - 🔭 Educator at Edukos, Osijek
   - 🔭 Bachelor in Computer Engineering
   - 🔭 Graduate Student at FERIT, Osijek in Software Engineering
+  - 🔭 Ex SDET at Barrage, Osijek
 
 Technologies & Tools i like to use:
   - 🔧 Languages: JS, C#
