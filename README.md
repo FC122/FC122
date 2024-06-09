@@ -22,6 +22,7 @@ I am:
   - 🔭 Bachelor in Computer Engineering
   - 🔭 Graduate Student at FERIT, Osijek in Software Engineering
   - 🔭 Ex SDET at Barrage, Osijek
+  - 🔭 Cypress community contributor
 
 Technologies & Tools i like to use:
   - 🔧 Languages: JS, C#
