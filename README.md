@@ -1,13 +1,14 @@
 ### Hello Weary Traveler 👋
 
+My name is Filip Cica
+
 Welcome to My Github Chaos! ⚡
-I am Filip Cica
 
 ## About
 - ⚡ Software Engineer specialising in Quality Assurance and Test Automation
 - 🔭 Currently working on [Cymap](https://github.com/FC122/cymap) a Cypress plugin for email testing
 - 🖋️ Ex educator at [EDukOS](https://edukos-instrukcije.hr) in programming
-- Junior QA Engineer at [Aircash](https://aircash.eu)
+- 🧰 Junior QA Engineer at [Aircash](https://aircash.eu)
 
 ## Education
 - 📖 Master's Degree in Software Engineering at [FERIT](https://www.ferit.unios.hr)
@@ -17,6 +18,7 @@ I am Filip Cica
 📫 How to Reach Me
 
 Email: filip.cica1234@gmail.com
-LinkedIn: https://hr.linkedin.com/in/filip-cica-8170662b6
+
+LinkedIn: [Filip Cica at LinkedIn](https://hr.linkedin.com/in/filip-cica-8170662b6)
 
 Happy Coding! 🚀✨
